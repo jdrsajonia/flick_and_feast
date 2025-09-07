@@ -1,3 +1,7 @@
+![banner](img/screenshot.png)
+
+---
+
 # Flick and Feast
 
 Proyecto académico de bases de datos.  
